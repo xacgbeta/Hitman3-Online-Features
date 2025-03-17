@@ -19,7 +19,7 @@
 
 ## **Uninstallation Instructions**
 
-- [x] To properly uninstall, follow these steps:  
+To properly uninstall, follow these steps:  
 1. Locate the `Hitman 3 Online shortcut`.  
 2. Right-click and select `Open File Location`.  
 3. Run `unins000.exe` to remove the setup safely.  
