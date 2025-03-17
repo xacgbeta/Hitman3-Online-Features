@@ -7,7 +7,7 @@ This document is for informational and educational purposes only. The **author**
 
 ## **Installation Instructions**
 
-1. Download the `Hitman 3 Setup` from the [release](https://github.com/xacgbeta/Hitman3-Online-Features/releases/tag/Hitman3). 
+1. Download the `Hitman3 Setup` from the [release](https://github.com/xacgbeta/Hitman3-Online-Features/releases/tag/Hitman3). 
 2. Run the `setup` file.  
 3. Select your preferred language.  
 4. Choose the game directory and choose HITMAN 3 folder (default: `C:\Program Files (x86)\Steam\steamapps\common\HITMAN 3`).  
