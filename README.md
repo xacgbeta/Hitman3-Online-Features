@@ -1,10 +1,10 @@
-#**Setup Guide: Using Peacock Server for Hitman 3**
+# **Setup Guide: Using Peacock Server for Hitman 3**
 This guide explains how to make **Hitman 3** playable without connecting to the official servers.
 
-##**Disclaimer**
+## **Disclaimer**
 This document is for informational and educational purposes only. The **author** does not support, encourage, or condone software piracy or any other illegal activity. Any references to third-party software are strictly for discussion and legal analysis. Users are solely responsible for ensuring their actions comply with applicable laws. The author assumes no liability for any misuse of this information.
 
-##**Installation Instructions**
+## **Installation Instructions**
   1. Download the Hitman 3 Online Setup from the <ins>release</ins>.
   2. Run the **setup** file.
   3. Select your preferred language.
@@ -15,13 +15,13 @@ This document is for informational and educational purposes only. The **author**
   8. Launch **Hitman 3 Online** using the shortcut — automation will handle the rest.
   9. Enjoy the game!
 
-##**Uninstallation Instructions**
+## **Uninstallation Instructions**
 To properly uninstall, follow these steps:
   1. Locate the** Hitman 3 Online** shortcut.
   2. **Right-click** and select **Open File Location**.
   3. Run **unins000.exe** to remove the setup safely.
 **Important:** Do not use third-party uninstallation software (_e.g., GeekUninstaller_), as it may delete your entire game data.
 
-###**Additional Notes**
+### **Additional Notes**
 **Network Connection:** When connecting to Peacock Server, an internet connection may be required initially. Once in the main menu, you can disable your network.
 **DLC Bug Warning:** Some DLCs may have minor bugs—these can be ignored.
